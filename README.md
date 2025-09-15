@@ -1,2 +1,14 @@
-# Toggle_Theme
-A simple digital clock with theme toggle feature. Displays real-time in 24-hour format and allows switching between light and dark mode using a button.
+# 🕒 Toggle Theme Digital Clock  
+
+A simple digital clock project built with **HTML, CSS, and JavaScript**.  
+It shows the current time in **24-hour format** and includes a **toggle theme button** to switch between light mode and dark mode.  
+
+## ✨ Features  
+- ⏱ Real-time digital clock in 24-hour format  
+- 🌗 Light/Dark theme toggle  
+- 🎨 Clean and minimal UI  
+
+## 🚀 How to Run  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/toggle_theme.git
