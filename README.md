@@ -9,7 +9,8 @@ It shows the current time in **24-hour format** and includes a **toggle theme bu
 - Clean and minimal UI
 
 ## 🖼️ Preview
-![Digital Clock Screenshot]("Screenshot 2025-09-15 103635.png")
+![Digital Clock Screenshot]("<img width="1911" height="864" alt="Screenshot 2025-09-15 103635" src="https://github.com/user-attachments/assets/3a62bc49-8c87-4a01-9b1e-b0dad4428d43" />
+")
 
 ## 🚀 How to Run  
 1. Clone this repository:  
